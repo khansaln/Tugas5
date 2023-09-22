@@ -31,6 +31,9 @@
   .bg-red{
     background-color: red;
   }
+  .btn{
+    width: 150px;
+  }
   .typing{
     width: 350px;
     height: 110px;
@@ -41,5 +44,6 @@
     border-radius: 10px;
   }
   #typing{
+    padding-top: 10px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
