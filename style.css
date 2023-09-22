@@ -6,14 +6,14 @@
     .line {
       border-style: dashed;
       border-width: 2px;
-      border-color: rgb(86, 52, 209);
+      border-color: #0d5efd;
     }
     .lead {
       font-size: 1.1rem;
     }
   }
   .arrow {
-    border: solid rgb(48, 24, 158);
+    border: solid #0d5efd;
     border-width: 0 3px 3px 0;
     display: inline-block;
     padding: 3px;
