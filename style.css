@@ -5,7 +5,7 @@
 .stepper {
     .line {
       border-style: dashed;
-      border-width: 2px;
+      border-width: 1px;
       border-color: #0d5efd;
     }
     .lead {
